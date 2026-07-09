@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562889472291",
+    "project_id": "quizandroid2",
+    "storage_bucket": "quizandroid2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562889472291:android:0f099bcaa69210f8d1b496",
+        "android_client_info": {
+          "package_name": "com.smartquizinan.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkyjRCGxqaPItraMRWBqjhuKRWo2ZR9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
